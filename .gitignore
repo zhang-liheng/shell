@@ -1,0 +1,7 @@
+*.txt
+my*
+*.o
+runtrace
+sdriver
+tsh
+tshref
